@@ -15,6 +15,7 @@
 - With each conversation, a path is opened to a map with destinations he must visit.
 - Some of the characters ask him for certain favors to help him.
 - Great music and effects / on supported systems /
+- language of dialogues - Bulgarian
 
 ## Playing the game
 You control the main character TopCat. You can make it move by clicking on the different objects with the left mouse button.

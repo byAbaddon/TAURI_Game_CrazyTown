@@ -1,6 +1,10 @@
 # TAURI Demo_Game_CrazyTown
 
-### A test project of a comic / quest DEMO game 'Crazy Town', using: Vue 3 Composition API, Vuetify 3 and the still new Tauri 1.2 framework.
+### A test project of a comic / quest DEMO game 'Crazy Town', using:
+- Vue 3 Composition API
+- Vuetify 3
+- and  the still new Tauri 1.2 framework.
+- All images are generated with Playground with AI
 
 ```diff
 - After building it doesn't play sound, has slight lag and other issues on some systems/distros.

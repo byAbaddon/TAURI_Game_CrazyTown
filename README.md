@@ -37,7 +37,7 @@ If your app plays audio/video you need to enable tauri.conf.json > tauri > bundl
 - This flag is currently only supported on Ubuntu build systems.
 ```
 
-## Prerequisites
+### Prerequisites
 - [Tauri](https://tauri.app)
 
 ### Author

@@ -43,8 +43,8 @@ If your app plays audio/video you need to enable tauri.conf.json > tauri > bundl
 ```
 
 ### Prerequisites
-- [Vue](https://vuejs.org)
-- [Vuetify](https://vuetifyjs.com/en/)
+- [Vue](https://vuejs.org) the Progressive JavaScript Framework
+- [Vuetify](https://vuetifyjs.com/en/) a Vue Component Framework
 - [Tauri](https://tauri.app) build an optimized, secure, and frontend-independent application for multi-platform deployment.
 - [Playground AI](https://playgroundai.com) allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0
 

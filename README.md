@@ -36,7 +36,7 @@ soon
 
 ### Download
 #### For Linux AppImage that run anywhere SOON...
-### Reason
+#### Reason
 If your app plays audio/video you need to enable tauri.conf.json > tauri > bundle > appimage > bundleMediaFramework. This will increase the size of the AppImage bundle to include additional gstreamer files needed for media playback.
 ```diff
 - This flag is currently only supported on Ubuntu build systems.

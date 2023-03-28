@@ -31,8 +31,17 @@ The adventure requires you to find a craftsman and a fuel cell for the damaged s
 soon
 
 ## Screenshots:
-![bg_story](https://user-images.githubusercontent.com/51271834/201547805-ab13546c-1f7a-4124-bb5b-020196f78bb4.png)
-
+![1](https://user-images.githubusercontent.com/51271834/228350421-a5b1925f-5f7f-4fd3-a267-1a16238823dd.png)
+![2](https://user-images.githubusercontent.com/51271834/228350460-b5933ef6-cc98-4127-bf92-11c9c3e7271e.png)
+![3](https://user-images.githubusercontent.com/51271834/228350522-6e910329-36f0-4ed7-8521-1523f265676b.png)
+![4](https://user-images.githubusercontent.com/51271834/228350546-f3faa0f0-288b-4dcd-a697-7e014a2b0c2a.png)
+![5](https://user-images.githubusercontent.com/51271834/228350635-5690e4f0-0d96-46c0-bf98-608704156968.png)
+![6](https://user-images.githubusercontent.com/51271834/228350654-e1b4921c-fdfa-4edc-ba60-9f07c9cb9fb4.png)
+![7](https://user-images.githubusercontent.com/51271834/228350745-01fe5e82-c209-4b12-80d5-d4792f3914fc.png)
+![8](https://user-images.githubusercontent.com/51271834/228350751-940a09ad-03e3-440e-b61d-f5481c2ea25c.png)
+![9](https://user-images.githubusercontent.com/51271834/228350757-c777820c-8fe7-49c4-8e84-bc23210acfe6.png)
+![10](https://user-images.githubusercontent.com/51271834/228350760-83e7a817-1b31-44e8-a633-b297ae9fad16.png)
+![11](https://user-images.githubusercontent.com/51271834/228350763-8d376eaa-12b5-4a44-b940-f7f2708e7a11.png)
 
 ### Download
 #### For Linux AppImage that run anywhere SOON...

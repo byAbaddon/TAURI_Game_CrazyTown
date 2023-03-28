@@ -27,8 +27,8 @@ Information about the character when the mouse is clicked on it.
 After each conversation, different cards are opened for you to visit new places.
 The adventure requires you to find a craftsman and a fuel cell for the damaged spaceship.
 
-## Video intro:
-soon
+## Short video intro:
+https://youtu.be/E8mlWxPifNw
 
 ## Screenshots:
 ![1](https://user-images.githubusercontent.com/51271834/228350421-a5b1925f-5f7f-4fd3-a267-1a16238823dd.png)

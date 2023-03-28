@@ -38,7 +38,7 @@ If your app plays audio/video you need to enable tauri.conf.json > tauri > bundl
 ```
 
 ## Prerequisites
-- [Tauri]https://tauri.app)
+- [Tauri](https://tauri.app)
 
 ### Author
 By Abaddon

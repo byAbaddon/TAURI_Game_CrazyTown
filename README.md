@@ -1,4 +1,4 @@
-# TAURI_Game_CrazyTown
+# TAURI_Demo_Game_CrazyTown
 
 ### A test project of a comic / quest DEMO game 'Crazy Town', using: Vue 3 Composition API, Vuetify 3 and the still new Tauri 1.0 framework.
 

@@ -1,7 +1,7 @@
 # TAURI_Game_CrazyTown
 
-### A test project of a comics quest game 'Crazy Town', using the still new Tauri 1.0 framework.
-(link to tauri)
+### A test project of a comic / quest DEMO game 'Crazy Town', using: Vue 3 Composition API, Vuetify 3 and the still new Tauri 1.0 framework.
+
 ```diff
 - After building it doesn't play sound, has slight lag and other issues on some systems/distros.
 + This is just DEMO GAME

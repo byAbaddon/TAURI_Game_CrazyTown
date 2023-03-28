@@ -44,8 +44,7 @@ If your app plays audio/video you need to enable tauri.conf.json > tauri > bundl
 
 ### Prerequisites
 - [Tauri](https://tauri.app)
-- [Playground AI](https://playgroundai.com)
-Playground AI allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0 along with Playground’s filters to get the exact aesthetic you want. A free account comes with 1000 picture generations per day and free commercial license.
+- [Playground AI](https://playgroundai.com) allows more and easier control of image generation AI. Use DALLE-2, Stable Diffusion 1.5 & 2.0 along with Playground’s filters to get the exact aesthetic you want. A free account comes with 1000 picture generations per day and free commercial license.
 
 ### Author
 By Abaddon
